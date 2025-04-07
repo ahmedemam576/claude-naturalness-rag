@@ -17,8 +17,8 @@ This application implements a Retrieval-Augmented Generation (RAG) system focuse
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/ahmedemam576/naturalness-rag.git
-cd naturalness-rag
+git clone https://github.com/ahmedemam576/claude-naturalness-rag.git
+cd claude-naturalness-rag
 ```
 
 2. Create a virtual environment:

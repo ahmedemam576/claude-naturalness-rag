@@ -1,6 +1,7 @@
 streamlit==1.28.0
-anthropic==0.18.1
+openai==1.6.0
 pypdf==3.17.0
 sentence-transformers==2.2.2
 numpy==1.24.3
 scikit-learn==1.2.2
+huggingface_hub==0.13.4

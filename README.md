@@ -39,8 +39,8 @@ streamlit run app.py
 ```
 
 ## Project Structure
-- `app.py`: Main Streamlit application
-- `requirements.txt`: Python dependencies
+- `final-rag-system2.py`: Main Streamlit application
+- `requirements-file-openai.txt`: Python dependencies
 - `README.md`: Project documentation
 
 ## Contributing
@@ -51,7 +51,7 @@ streamlit run app.py
 5. Open a Pull Request
 
 ## License
-[Specify your license here, e.g., MIT License]
+[MIT License]
 
 ## Contact
 Ahmed Emam - ahmedemam576@gmail.com

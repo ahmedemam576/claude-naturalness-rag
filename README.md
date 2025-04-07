@@ -55,4 +55,4 @@ streamlit run app.py
 
 ## Contact
 Ahmed Emam - ahmedemam576@gmail.com
-Project Link: [https://github.com/ahmedemam576/naturalness-rag](https://github.com/ahmedemam576/claude-naturalness-rag)
+Project Link: [naturalness-rag](https://github.com/ahmedemam576/claude-naturalness-rag)
